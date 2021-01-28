@@ -1,0 +1,13 @@
+{
+  "name": "snowpack-buffer",
+  "scripts": {
+    "start": "snowpack dev"
+  },
+  "main": "./src/main.js",
+  "dependencies": {
+    "iso-random-stream": "1.1.1"
+  },
+  "devDependencies": {
+    "snowpack": "3.0.11"
+  }
+}
